@@ -1,7 +1,7 @@
 # HHMC
 **Hybrid heuristic for the maximum cut on graphs**
 
-This heuristic algorithm was automatically generated using the [AutoBQP](https://github.com/souzamarcelo/AutoBQP) solver. The automated algorithm design process and the HHMC algorithm are detailed in the following article (see AAC_M algorithm).
+This heuristic algorithm presented here solves the maximum cut problem via UBQP (Unconstrained Binary Quadratic Programming). It was automatically generated using the [AutoBQP](https://github.com/souzamarcelo/AutoBQP) solver. The automated algorithm design process and the HHMC algorithm are detailed in the following article (see AAC_M algorithm).
 
 + Marcelo de Souza, Marcus Ritt. **Automatic Grammar-Based Design of Heuristic Algorithms for Unconstrained Binary Quadratic Programming**. Evolutionary Computation in Combinatorial Optimization, Springer, p. 67-84, 2018.
 
